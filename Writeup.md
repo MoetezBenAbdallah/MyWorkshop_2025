@@ -100,8 +100,10 @@ we found the password which is "**alqfna22**"
 ## Accessing the Target
 
 since the RDP PORT is open we can use 
+
 ```bash
 rdesktop -u Jon -p alqfna22 <TARGET-IP>
 ```
+![rdesktop](rdesktop.png)
 
 we are in and we have **full control** on the JON PC . It's like we are controlling his own PC at home.
